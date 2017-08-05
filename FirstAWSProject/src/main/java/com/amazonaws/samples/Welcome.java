@@ -6,6 +6,8 @@ public class Welcome {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello... Welcome to java");
+		System.out.println("Hello... Welcome to Eclipse world");
+		
 	}
 
 }
