@@ -1,7 +1,8 @@
-# Registration and Login Example with Spring Security, Spring Boot, Spring Data JPA, HSQL, JSP
+##### Welcome & Thank you for chekcing my GIT ######
 
-## Guide
-https://hellokoding.com/registration-and-login-example-with-spring-security-spring-boot-spring-data-jpa-hsql-jsp/
+# This code is deploye in AWS environment and it be accessed with below url #
+
+http://ec2-18-220-121-2.us-east-2.compute.amazonaws.com:8080/auth/login
 
 ## Prerequisites
 - JDK 1.7 or later
